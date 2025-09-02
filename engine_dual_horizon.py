@@ -1,23 +1,4 @@
-"""
-✅ REVOLUTIONARY: Dual-Horizon Trading Engine with Promise System
 
-This enhanced trading environment implements a groundbreaking dual-horizon approach:
-
-1. FORWARD-LOOKING PROMISE SYSTEM:
-   - Agent makes decisions every 20 seconds 
-   - Rewards are evaluated 3 minutes (180s) into the future
-   - Creates "promises" that incentivize strategic thinking
-   - Enables precise "sniping" of optimal entries
-
-2. BACKWARD-LOOKING REALIZED PnL TRACKING:
-   - Immediate detection of closed/reduced positions
-   - Permanent balance adjustments for realized gains/losses
-   - Immediate feedback prevents reckless behavior
-
-3. BALANCED REWARD ARCHITECTURE:
-   - Combines forward promises (70% weight) with backward PnL (30% weight)
-   - Encourages both strategic positioning and tactical execution
-   - Configurable weighting system for different trading styles
 """
 
 import numpy as np
